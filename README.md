@@ -8,6 +8,6 @@ Each step is a branch. Check out to the step you want to test.
 
 
 ## Interesting links
-[reactnavigation](https://reactnavigation.org/)
-[react-native-vector-icons](https://oblador.github.io/react-native-vector-icons/)
-[firebase](https://firebase.google.com/?gclsrc=aw.ds&gclid=CjwKCAiAl-6PBhBCEiwAc2GOVP96IqIStwEhzF34O2G5qGMPs8ynQEzgYKQJo5dyLcBKcWyOKoKb7hoCvs8QAvD_BwE)
+* [reactnavigation](https://reactnavigation.org/)
+* [react-native-vector-icons](https://oblador.github.io/react-native-vector-icons/)
+* [firebase](https://firebase.google.com/?gclsrc=aw.ds&gclid=CjwKCAiAl-6PBhBCEiwAc2GOVP96IqIStwEhzF34O2G5qGMPs8ynQEzgYKQJo5dyLcBKcWyOKoKb7hoCvs8QAvD_BwE)
