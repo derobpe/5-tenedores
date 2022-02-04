@@ -14,6 +14,6 @@ Each step is a branch. Check out to the step you want to test.
 
 
 ## circle menus
-## tested on branch [Diferent-Menu-Buttons](https://github.com/derobpe/5-tenedores/commits/Diferent-Menu-Buttons)
+ON GOIN testing on branch [Diferent-Menu-Buttons](https://github.com/derobpe/5-tenedores/commits/Diferent-Menu-Buttons)
 * [react-native-circular-action-menu](https://github.com/LeafyCode/react-native-circular-action-menu)
 * [CircularFloatingActionMenu](https://github.com/oguzbilgener/CircularFloatingActionMenu)
