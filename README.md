@@ -11,3 +11,9 @@ Each step is a branch. Check out to the step you want to test.
 * [reactnavigation](https://reactnavigation.org/)
 * [react-native-vector-icons](https://oblador.github.io/react-native-vector-icons/)
 * [firebase](https://firebase.google.com)
+
+
+## circle menus
+## tested on branch [Diferent-Menu-Buttons](https://github.com/derobpe/5-tenedores/commits/Diferent-Menu-Buttons)
+* [react-native-circular-action-menu](https://github.com/LeafyCode/react-native-circular-action-menu)
+* [CircularFloatingActionMenu](https://github.com/oguzbilgener/CircularFloatingActionMenu)
