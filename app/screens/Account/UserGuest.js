@@ -30,7 +30,7 @@ export default function UserGuest(props) {
 const styles = StyleSheet.create({
   viewBody: {
     marginLeft: 30,
-    marginRigth: 30,
+    marginRight: 30,
   },
   image: {
     height: 300,
